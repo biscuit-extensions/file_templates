@@ -1,0 +1,7 @@
+[extension]
+id = "file_templates"
+name = "File Templates"
+version = "0.1.0"
+description = "File Templates extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
